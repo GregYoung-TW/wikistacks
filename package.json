@@ -1,0 +1,18 @@
+{
+  "name": "wikistack",
+  "version": "1.0.0",
+  "description": "Wikistack project for Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./Users/GregY/Desktop/wikistack"
+  },
+  "author": "Gregory Young",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "html-template-tag": "^3.2.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
